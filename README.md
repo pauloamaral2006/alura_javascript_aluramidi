@@ -26,3 +26,7 @@
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/3089882?v=4" width=115><br><sub>Vanessa Me Tonini</sub>](https://github.com/vanessametonini) |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+
+## 💻 Screenshot
+
+<img loading="lazy" src="./images/screenshot.png" style="width: 100%"/>
